@@ -48,6 +48,13 @@ public class OrderApplicationService {
     return cartReader.getDetails(productsInformation);
   }
 
+  @Transactional
+  public StripeSessionId createOrder(List<DetailCartItemRequest> items) {
+    User authenticatedUser = usersApplicationService.getAuthenticatedUser();
+    List<PublicId> publicIds = items.stream().map(DetailCartItemRequest::productId).toList();
+    List<Product> productsInformation = productsApplicationService.getProductsByPublicIdsIn(publicIds);
+    return orderCreator.create(productsInformation, items, authenticatedUser);
+  }
 
   @Transactional
   public void updateOrder(StripeSessionInformation stripeSessionInformation) {
