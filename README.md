@@ -69,13 +69,11 @@ To see all available targets to run for a project, run:
 ```sh
 npx nx show project ecom-backend
 ```
-# springboot-angular-ecommerce
-![Image](https://github.com/user-attachments/assets/7e87d637-91dd-4016-87bb-5226cf346c5d) 
-
+ 
 
 
 
 ## Screenshots
 <img width="7455" height="6029" alt="Image" src="https://github.com/user-attachments/assets/dfacc7ec-26a6-4799-a48f-8e6c40648a15" />
 
-# ashish-augustine-springboot-angular-ecommerce-fullstack
+ 
