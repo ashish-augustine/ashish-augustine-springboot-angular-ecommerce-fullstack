@@ -83,4 +83,16 @@ public class ProductsAdminResource {
     }
   }
 
+  @GetMapping
+  @PreAuthorize("hasAnyRole('" + ROLE_ADMIN + "')")
+  public ResponseEntity<Page<RestProduct>> getAll(Pageable pageable) {
+    Page<Product> products = productsApplicationService.findAllProduct(pageable);
+
+    Page<RestProduct> restProducts = new PageImpl<>(
+      products.getContent().stream().map(RestProduct::fromDomain).collect(Collectors.toList()),
+      pageable,
+      products.getTotalElements()
+    );
+    return ResponseEntity.ok(restProducts);
+  }
 }
