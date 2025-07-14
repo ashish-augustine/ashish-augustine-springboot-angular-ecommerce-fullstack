@@ -76,10 +76,6 @@ npx nx show project ecom-backend
 
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/18b2f0f3-bb99-44bb-ae3b-bf1c2b4aedd1)
-
-![Image](https://github.com/user-attachments/assets/e18eb53c-57a9-49c8-aab7-8235f5828edf)
-
-![Image](https://github.com/user-attachments/assets/5dea7808-fde6-416c-9a9e-69a814a198a8)
+<img width="7455" height="6029" alt="Image" src="https://github.com/user-attachments/assets/dfacc7ec-26a6-4799-a48f-8e6c40648a15" />
 
 # ashish-augustine-springboot-angular-ecommerce-fullstack
