@@ -9,7 +9,7 @@ Monorepo of the Ecommerce platform app.
 - 🏢 Hexagonal architecture (Backend)
 
 ## Screenshots
-<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/553c7168-2b3f-4460-b155-08e7dcf0b8e0" />
+<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/e1dd5c3d-0fa8-40d5-a5c2-d005e99f2886" />
 
 <img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/cbb9d9d6-d2ba-4948-9238-66a04eeca333" />
 
