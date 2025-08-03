@@ -11,9 +11,10 @@ Monorepo of the Ecommerce platform app.
 ## Screenshots
 <img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/e1dd5c3d-0fa8-40d5-a5c2-d005e99f2886" />
 
+<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/144aab6f-791a-4c83-864c-c52edfa353df" /> 
+
 <img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/cbb9d9d6-d2ba-4948-9238-66a04eeca333" />
 
-<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/144aab6f-791a-4c83-864c-c52edfa353df" /> 
 
 
 
