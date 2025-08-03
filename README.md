@@ -8,6 +8,13 @@ Monorepo of the Ecommerce platform app.
 - 💳 Stripe integration
 - 🏢 Hexagonal architecture (Backend)
 
+## Screenshots
+<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/553c7168-2b3f-4460-b155-08e7dcf0b8e0" />
+
+<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/cbb9d9d6-d2ba-4948-9238-66a04eeca333" />
+
+<img width="1254" height="760" alt="Image" src="https://github.com/user-attachments/assets/144aab6f-791a-4c83-864c-c52edfa353df" /> 
+
 
 
 ## Usage
