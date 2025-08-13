@@ -17,6 +17,12 @@ Monorepo of the Ecommerce platform app.
 
 
 
+## Work flow
+<img width="7455" height="6029" alt="Image" src="https://github.com/user-attachments/assets/dfacc7ec-26a6-4799-a48f-8e6c40648a15" />
+
+ 
+
+
 
 ## Usage
 ### Prerequisites
@@ -79,9 +85,3 @@ npx nx show project ecom-backend
 ```
  
 
-
-
-## Work flow
-<img width="7455" height="6029" alt="Image" src="https://github.com/user-attachments/assets/dfacc7ec-26a6-4799-a48f-8e6c40648a15" />
-
- 
